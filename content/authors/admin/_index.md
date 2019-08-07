@@ -43,6 +43,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kendra Seaman is an Assistant Professor at The University of Texas at Dallas. She completed her BA in psychology and biology at the University of Kansas before joining Teach For America. After teaching in Oakland, CA and Washington, DC, she completed a Master’s and PhD at The Catholic University of America and  a postdoc in the Motivated Cognition and Aging Brain Lab with Gregory Samanez-Larkin (at Yale and Duke Universities).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Her research is dedicated to using basic and translational scientific research studies to promote health and wellbeing across adulthood. We use a variety of behavioral, modeling and neuroimaging techniques to better understand how the mind and the brain change as people get older.
+
+
